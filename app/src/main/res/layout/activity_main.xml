@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChatRooms">
+
+
+    <EditText
+        android:id="@+id/add_room"
+        android:layout_width="294dp"
+        android:layout_height="46dp"
+        android:layout_alignParentBottom="true"
+        android:background="#998877"
+        android:ems="10"
+        android:hint="Yeni çat otağın adını yazın"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/add_room_button"
+        android:layout_width="117dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="#FF5722"
+        android:text="yarat"
+        android:textColor="#F3F0F0"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/add_rooms_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4CAF50"
+        android:cacheColorHint="@color/colorPrimaryDark" />
+</RelativeLayout>
+

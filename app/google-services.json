@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537920588077",
+    "firebase_url": "https://poster-4ed22.firebaseio.com",
+    "project_id": "poster-4ed22",
+    "storage_bucket": "poster-4ed22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537920588077:android:1e30b47ed0860bb0d0eba4",
+        "android_client_info": {
+          "package_name": "com.aqil.agilechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537920588077-rldn6k3nehsmq13vcfu1m493e9afunvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqil.agilechat",
+            "certificate_hash": "4df49c0bd01012295021efdd9b53c3a81f3aa307"
+          }
+        },
+        {
+          "client_id": "537920588077-i5763i3cghqa9t31gg5p2n3utkaoo0pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5IXr1_lw3lQcgRT-a_NArV6t_WjpnzHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537920588077-i5763i3cghqa9t31gg5p2n3utkaoo0pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
